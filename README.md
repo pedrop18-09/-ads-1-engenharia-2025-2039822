@@ -15,13 +15,21 @@ O Modelo Espiral é uma abordagem para o desenvolvimento de software que combina
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
 Valores e princípios do Manifesto Ágil são: 
+
 ° Indivíduos e interações - Prioriza as pessoas envolvidas nos processo, em vez de processos e ferramentas;
+
 ° Software em funcionamento - Prioriza o software em funcinamento, em vez de documentação abrangente
+
 ° Colaboração com o cliente - Prioriza a colaboração com o cliente;
+
 ° Responder a mudanças - Prioriza a capacidade de responder a mudanças;
+
 ° Entrega contínua de valor - Prioriza a entrega contínua de software de valor para o cliente;
+
 ° Comunicação face a face -  Valoriza este tipo de comunicação; 
+
 ° Trabalho colaborativo - Valoriza este trabalho entre pessoas de negócios e desenvolvedores;
+
 ° Adaptação às mudanças. 
 
 ## 🏆 Scrum  
@@ -31,10 +39,15 @@ No Scrum, Sprints são ciclos curtos de trabalho da metodoligia ágil, focados e
 ### 💬 Cerimônias  
 São reuniôes planejadas para que a equipe se comunique, colabore e reflita sobre o trabahlho.
 As cêrimonias do Scrum são:
+
 ° Refinamento do backlog do produto - Análise das histórias da usuário para os próximos sprints;
+
 ° Reunião de planejamento do sprint - Seleção dos elementos do backlog para o sprint;
+
 ° Reunião diária do Scrum - Avaliação do progresso do dia anterior e lista das tarefas do dia; 
+
 ° Revisão do sprint - Teste do incremento do produto por clientes e outras partes interessadas;
+
 ° Retrospectiva do sprint - Avaliação de como tudo ocorreu no sprint.
 
 ## 🎯 Kanban 
@@ -51,4 +64,6 @@ Essas plataformas são uma hospedagem de código-fonte que ajudam no gerenciamen
 Elas têm como recursos princiapis: revisão de código, pull request, intregrações e armazenamento de imagens docker
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+O Trello serve como seu centro de produtividade, projetado para ajudar você a organizar e rastrear suas tarefas de forma eficaz. Com sua interface adaptável, você pode organizar ideias, fazer brainstorming, monitorar tarefas e outros itens essenciais sem esforço, bem como gerenciar pautas de reuniões e itens de ação.
+
+Jira é a ferramenta de gerenciamento de projetos definitiva, projetada para promover colaboração, alinhamento e entrega eficiente de projetos. O Jira simplifica o processo de gerenciamento de projetos multifuncionais que envolvem dependências e prazos, permitindo que as equipes naveguem perfeitamente em projetos de qualquer escala e passem por qualquer fluxo de trabalho com facilidade.
